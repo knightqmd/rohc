@@ -1,4 +1,4 @@
-# ROHC library - compress protocol headers
+# ROHC library - compress protocol headers(learning)
 
 The ROHC library provides an easy and robust way for applications to reduce
 their bandwidth usage on network links with limited capacity or expensive
